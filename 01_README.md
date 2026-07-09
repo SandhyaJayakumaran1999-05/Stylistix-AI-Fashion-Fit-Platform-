@@ -28,6 +28,23 @@ Stylistix provides an AI-powered platform featuring:
 - Retail Analytics Dashboard
 - Subscription-based SaaS Platform
 
+## Interactive Prototype
+
+This project includes a high-fidelity Figma prototype demonstrating the AI-powered fashion shopping experience.
+
+**Figma Prototype:** https://www.figma.com/proto/khce5V4sSZZZn1GFUjdfIh/Stylistix-Demo-2?node-id=3005-494&t=gcwOz2H0GJ6EZYlr-1&starting-point-node-id=3005%3A494
+### Prototype Features
+
+- Home Dashboard
+- User Onboarding
+- AI Body Measurement
+- Body Shape Analysis
+- Personalized Fit Preferences
+- AI Size Recommendation
+- Virtual Try-On Experience
+
+Prototype screenshots are included in the **Prototype** folder.
+
 ## Target Market
 
 Primary Markets:
@@ -138,7 +155,7 @@ Additional value-added services include:
 
 **Project:** Stylistix – AI Fashion Fit Platform
 
-Author
+## Author
 
 **Sandhya Jayakumaran**
 
