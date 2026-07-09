@@ -1,12 +1,10 @@
-# 👗 Stylistix – AI Fashion Fit Platform for MSMEs
+Stylistix – AI Fashion Fit Platform for MSMEs
 
-## 📌 Project Overview
+Project Overview
 
 **Stylistix** is an MBA Entrepreneurship project that proposes an AI-powered SaaS platform designed to help fashion Micro, Small and Medium Enterprises (MSMEs) reduce product returns and improve customer confidence through intelligent size recommendations, virtual try-on, and personalized fit suggestions.
 
 The business concept was validated through primary market research involving online shoppers and fashion businesses, leading to a strategic pivot from a Business-to-Consumer (B2C) model to a Business-to-Business (B2B) SaaS solution.
-
----
 
 Business Problem
 
@@ -18,23 +16,19 @@ Common challenges include:
 - Inconsistent sizing across brands
 - Limited access to affordable AI technology for MSMEs
 
----
-
-## 💡 Proposed Solution
+  Proposed Solution
 
 Stylistix provides an AI-powered platform featuring:
 
-- 🤖 AI Size Recommendation
-- 👕 Virtual Try-On (VTO)
-- 📏 3D Body Measurement & Body Shape Analysis
-- 👤 Personalized Fit Recommendations
-- 🛒 Shopify & Shopee Integration
-- 📊 Retail Analytics Dashboard
-- ☁️ Subscription-based SaaS Platform
+- AI Size Recommendation
+- Virtual Try-On (VTO)
+- 3D Body Measurement & Body Shape Analysis
+- Personalized Fit Recommendations
+- Shopify & Shopee Integration
+- Retail Analytics Dashboard
+- Subscription-based SaaS Platform
 
----
-
-## 🌍 Target Market
+Target Market
 
 Primary Markets:
 - India
@@ -49,9 +43,7 @@ Target Customers:
 - Tailoring Businesses
 - E-commerce Fashion Sellers
 
----
-
-## 📈 Market Research
+Market Research
 
 The business concept was supported through primary research conducted using Google Forms.
 
@@ -73,9 +65,7 @@ Research objectives included:
 
 > **Privacy Notice:** All uploaded survey response datasets have been anonymized by removing personally identifiable information (PII), including names and email addresses.
 
----
-
-## 📊 Key Research Findings
+Research Findings
 
 - Strong customer interest in AI-assisted sizing solutions
 - Fashion MSMEs identified sizing-related returns as a significant business challenge
@@ -83,9 +73,7 @@ Research objectives included:
 - Virtual Try-On increased customer purchase confidence
 - Research validated a strategic pivot from B2C to B2B SaaS
 
----
-
-## 🚀 Business Strategy
+Business Strategy
 
 Following research analysis, the project evolved from:
 
@@ -99,9 +87,7 @@ AI sizing platform for online shoppers
 
 AI-powered SaaS platform designed specifically for fashion MSMEs
 
----
-
-## 💰 Revenue Model
+Revenue Model
 
 Subscription Plans:
 
@@ -114,10 +100,8 @@ Additional value-added services include:
 - Multi-user access
 - Strategy consultation
 - Dedicated account management
-
----
-
-## 📅 Project Roadmap
+  
+Project Roadmap
 
 - Product Concept Development
 - MVP Development
@@ -126,9 +110,7 @@ Additional value-added services include:
 - B2C Expansion
 - Long-term Business Growth
 
----
-
-## 🛠 Skills Demonstrated
+Skills Demonstrated
 
 - Entrepreneurship
 - Product Strategy
@@ -143,28 +125,7 @@ Additional value-added services include:
 - Strategic Decision Making
 - Startup Planning
 
----
-
-## 📂 Repository Contents
-
-```
-📁 Presentation
-    └── MBA Presentation.pdf
-
-📁 Survey Questions
-    ├── Customer Survey.pdf
-    ├── MSME Survey.pdf
-    └── AI Sizing Survey.pdf
-
-📁 Survey Responses (Anonymized)
-    ├── Customer Survey Responses.xlsx
-    ├── MSME Survey Responses.xlsx
-    └── AI Sizing Survey Responses.xlsx
-```
-
----
-
-## 🎓 Academic Project
+Academic Project
 
 **Course:** MBA Entrepreneurship
 
@@ -172,9 +133,7 @@ Additional value-added services include:
 
 **Project:** Stylistix – AI Fashion Fit Platform
 
----
-
-## 👤 Author
+Author
 
 **Sandhya Jayakumaran**
 
