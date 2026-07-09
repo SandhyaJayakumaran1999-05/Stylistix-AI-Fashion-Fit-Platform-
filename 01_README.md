@@ -1,12 +1,12 @@
 ## Stylistix – AI Fashion Fit Platform for MSMEs
 
-Project Overview
+## Project Overview
 
 **Stylistix** is an MBA Entrepreneurship project that proposes an AI-powered SaaS platform designed to help fashion Micro, Small and Medium Enterprises (MSMEs) reduce product returns and improve customer confidence through intelligent size recommendations, virtual try-on, and personalized fit suggestions.
 
 The business concept was validated through primary market research involving online shoppers and fashion businesses, leading to a strategic pivot from a Business-to-Consumer (B2C) model to a Business-to-Business (B2B) SaaS solution.
 
-Business Problem
+## Business Problem
 
 Fashion retailers experience high product return rates due to inaccurate sizing, inconsistent size charts, and customer uncertainty when purchasing apparel online.
 
@@ -16,7 +16,7 @@ Common challenges include:
 - Inconsistent sizing across brands
 - Limited access to affordable AI technology for MSMEs
 
-  Proposed Solution
+## Proposed Solution
 
 Stylistix provides an AI-powered platform featuring:
 
@@ -28,14 +28,14 @@ Stylistix provides an AI-powered platform featuring:
 - Retail Analytics Dashboard
 - Subscription-based SaaS Platform
 
-Target Market
+## Target Market
 
 Primary Markets:
 - India
 - Sri Lanka
 - Philippines
 
-Target Customers:
+## Target Customers:
 - Fashion MSMEs
 - Boutique Owners
 - Clothing Retailers
@@ -43,7 +43,7 @@ Target Customers:
 - Tailoring Businesses
 - E-commerce Fashion Sellers
 
-Market Research
+## Market Research
 
 The business concept was supported through primary research conducted using Google Forms.
 Countries included:
@@ -60,7 +60,7 @@ Research included:
 | MSME Survey | 14 |
 | AI Sizing & Virtual Try-On Survey | 56 |
 
-Research objectives included:
+## Research objectives included:
 
 - Understanding customer sizing challenges
 - Measuring interest in AI-powered fashion technology
@@ -70,7 +70,7 @@ Research objectives included:
 
 > **Privacy Notice:** All uploaded survey response datasets have been anonymized by removing personally identifiable information (PII), including names and email addresses.
 
-Research Findings
+## Research Findings
 
 - Strong customer interest in AI-assisted sizing solutions
 - Fashion MSMEs identified sizing-related returns as a significant business challenge
@@ -78,7 +78,7 @@ Research Findings
 - Virtual Try-On increased customer purchase confidence
 - Research validated a strategic pivot from B2C to B2B SaaS
 
-Business Strategy
+## Business Strategy
 
 Following research analysis, the project evolved from:
 
@@ -92,7 +92,7 @@ AI sizing platform for online shoppers
 
 AI-powered SaaS platform designed specifically for fashion MSMEs
 
-Revenue Model
+## Revenue Model
 
 Subscription Plans:
 
@@ -106,7 +106,7 @@ Additional value-added services include:
 - Strategy consultation
 - Dedicated account management
   
-Project Roadmap
+## Project Roadmap
 
 - Product Concept Development
 - MVP Development
@@ -115,7 +115,7 @@ Project Roadmap
 - B2C Expansion
 - Long-term Business Growth
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Entrepreneurship
 - Product Strategy
@@ -130,7 +130,7 @@ Skills Demonstrated
 - Strategic Decision Making
 - Startup Planning
 
-Academic Project
+## Academic Project
 
 **Course:** MBA Entrepreneurship
 
