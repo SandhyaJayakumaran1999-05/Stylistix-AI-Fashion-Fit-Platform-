@@ -46,6 +46,11 @@ Target Customers:
 Market Research
 
 The business concept was supported through primary research conducted using Google Forms.
+Countries included:
+
+- India
+- Sri Lanka
+- Philippines
 
 Research included:
 
