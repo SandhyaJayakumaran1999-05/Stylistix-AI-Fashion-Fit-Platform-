@@ -1,4 +1,4 @@
-Stylistix – AI Fashion Fit Platform for MSMEs
+## Stylistix – AI Fashion Fit Platform for MSMEs
 
 Project Overview
 
